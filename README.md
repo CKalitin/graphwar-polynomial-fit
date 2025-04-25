@@ -10,7 +10,7 @@ There's this game [graphwar](https://store.steampowered.com/app/1899700/Graphwar
 ### How to use
 ![](https://github.com/CKalitin/graphwar-polynomial-fit/blob/master/examplescreenshot.png)
 
-When the game starts, take a screenshot using windows-shift-s of the game screen (not the entire game, just the screen with the agents on it).
+When the game starts, take a screenshot using windows-shift-s of the game screen (not the entire game, just the screen with the agents on it). Save this as "input-game-screenshot.jpg" in the directory of the code (overwrite existing file).
 
 Left click on green dots representing agents to add them to the path. Left click again to delete them.
 
