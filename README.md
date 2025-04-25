@@ -1,7 +1,7 @@
 # graphwar-polynomial-fit
 Goddamn I love getting nerdsnipped
 
-Livestream where I wrote this (past midterm, tiredly wrote it): https://studio.youtube.com/video/JZ4o6mho0YY/livestreaming?c=UCd-TJ9nXhdycxxubpjwDIAA
+Livestream where I wrote this (past midnight, tiredly wrote it): https://studio.youtube.com/video/JZ4o6mho0YY/livestreaming?c=UCd-TJ9nXhdycxxubpjwDIAA
 
 ![](https://github.com/CKalitin/graphwar-polynomial-fit/blob/master/googlesheetsscreenshot.png)
 
@@ -13,7 +13,7 @@ There's this game [graphwar](https://store.steampowered.com/app/1899700/Graphwar
 
 ![](https://github.com/CKalitin/graphwar-polynomial-fit/blob/master/examplescreenshot2.png)
 
-When the game starts, take a screenshot using windows-shift-s of the game screen (not the entire game, just the screen with the agents on it).
+When the game starts, take a screenshot using windows-shift-s of the game screen (not the entire game, just the screen with the agents on it). Save this as "input-game-screenshot.jpg" in the directory of the code (overwrite existing file).
 
 Left click on green dots representing agents to add them to the path. Left click again to delete them.
 
