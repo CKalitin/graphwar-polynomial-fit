@@ -199,7 +199,7 @@ def update_loop():
                 if degree < 10:
                     degree += 1
             elif event.key == pygame.K_DOWN:  # Decrease degree
-                if degree > 0:
+                if degree > 1:
                     degree -= 1
 
     # Clear screen
