@@ -1,7 +1,7 @@
 # graphwar-polynomial-fit
 Goddamn I love getting nerdsnipped
 
-Livestream where I wrote this (past midnight, tiredly wrote it): https://studio.youtube.com/video/JZ4o6mho0YY/livestreaming?c=UCd-TJ9nXhdycxxubpjwDIAA
+Livestream where I wrote this (past midnight, tiredly wrote it): https://www.youtube.com/watch?v=JZ4o6mho0YY
 
 ![](https://github.com/CKalitin/graphwar-polynomial-fit/blob/master/googlesheetsscreenshot.png)
 
